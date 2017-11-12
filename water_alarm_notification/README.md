@@ -4,7 +4,7 @@ Drink Water Event Popup
 
 Demonstrates usage and features of the event page by reminding user to drink water
 
-[Zipfile](http://developer.chrome.com/extensions/examples/api/water_alarm_notification.zip)
+[Zipfile](https://d349zb3mj7234h.cloudfront.net/water_alarm_notification.zip)
 
 Content is licensed under the [Google BSD License](https://developers.google.com/open-source/licenses/bsd).
 
